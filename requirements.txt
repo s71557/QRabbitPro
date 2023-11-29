@@ -16,3 +16,5 @@ tzlocal
 httpx
 opencv-python-headless
 fake-useragent
+matplotlib
+pyecharts
