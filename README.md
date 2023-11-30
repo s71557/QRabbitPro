@@ -13,7 +13,7 @@
 > * 过期通知模板
 ***
 ## 准备工作
->- 获取授权token，科学上网后，关注频道[Rabbit](https://t.me/Rabbit_one)并进入群组：[Rabbit的窝边草](https://t.me/RabbitOneA)，通过验证后，在群组内发送 `/start@RabbitMarkit_Bot`，然后找[机器人](https://t.me/RabbitMarkit_Bot)发送 `我的信息`即可看到token
+>- 获取授权token，科学上网后，关注频道[Rabbit](https://t.me/Rabbit_one)并进入群组：[Rabbit的窝边草](https://t.me/RabbitOneA)，通过验证后，在群组内发送 `/start@RabbitMarkit_Bot`，然后找[机器人](https://t.me/RabbitMarkit_Bot)发送 `我的信息`即可看到token 
 ***
 ## 部署教程
 > ### 1. 安装docker
