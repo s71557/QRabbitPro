@@ -5,7 +5,7 @@ username: admin                                      # 管理员的username
 password: admin                                      # 管理员密码
 Title: QRabbit                                       # 标题
 mode: 2                                              # 模式
-ServerHost: 62.204.54.137:4566                       # 中心服务器host
+ServerHost: log.madrabbit.eu.org                       # 中心服务器host
 BotApiToken:                                         # 对接机器人的认证token
 WskeyCron: ''                                        # wskey的转换定时
 SyncCkCron:                                          # 同步ck的定时
