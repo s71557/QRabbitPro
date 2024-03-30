@@ -1,4 +1,4 @@
-# **RabbitPro**
+# **QRabbitPro**
 
 ## 功能介绍
 > * 自动获取ck
